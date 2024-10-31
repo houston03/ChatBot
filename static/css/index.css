@@ -12,8 +12,8 @@ body, html {
   width: 100%;
 
     ::-webkit-scrollbar {
-    width: 24px; /* ширина для вертикального скролла */
-    height: 8px; /* высота для горизонтального скролла */
+    width: 24px; 
+    height: 8px; 
     background-color: rgba(50,70,100,0.9);
         border-radius: 9em;
 }
