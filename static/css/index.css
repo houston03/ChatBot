@@ -97,10 +97,9 @@ text-align: center;
 
 input, optgroup, select, textarea {
     margin: 0;
-    /* font-family: inherit; */
+    
     font-size: inherit;
-    /* line-height: inherit;
-     */
+    
 }
 
 @media screen and (max-width: 1230px) {
